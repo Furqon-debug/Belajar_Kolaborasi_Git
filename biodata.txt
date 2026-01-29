@@ -1,3 +1,6 @@
-Nama  : Muhammad Furqon Atthoriq
-Asal  : Kota Purwokerto
-Program: PKL Gamelab
+Belajar Git Source Control
+
+Nama Lengkap Kamu : Nama Kamu
+
+Saya senang belajar Git Source Control di Gamelab Indonesia
+
